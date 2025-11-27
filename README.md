@@ -9,7 +9,7 @@
 
 A modern, responsive web application to explore the Rick and Morty universe. Browse through 800+ characters, episodes, and locations with beautiful UI and smooth interactions.
 
-[Live Demo](https://your-demo-link.vercel.app) • [Report Bug](https://github.com/yourusername/repo-name/issues) • [Request Feature](https://github.com/yourusername/repo-name/issues)
+[Live Demo](https://portal-gun-explorer.vercel.app/) • [Report Bug](https://github.com/veritriariyanto/portal-gun-explorer/issues) • [Request Feature](https://github.com/veritriariyanto/portal-gun-explorer/issues)
 
 </div>
 
@@ -265,8 +265,8 @@ Browse all components: [shadcn/ui Components](https://ui.shadcn.com/docs/compone
 
 Found a bug or have a feature idea? Please open an issue:
 
-- [Report a Bug](https://github.com/veritriariyanto/repo-name/issues/new?labels=bug)
-- [Request a Feature](https://github.com/veritriariyanto/repo-name/issues/new?labels=enhancement)
+- [Report a Bug](https://github.com/veritriariyanto/portal-gun-explorer/issues/new?labels=bug)
+- [Request a Feature](https://github.com/veritriariyanto/portal-gun-explorer/issues/new?labels=enhancement)
 
 ---
 
